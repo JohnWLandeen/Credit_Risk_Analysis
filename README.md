@@ -9,9 +9,9 @@ With a variety of resampling methods available, this credit risk analysis thorou
 The Results of the sampling and modeling are as follows:
 
 * RandomOverSampler
-** A balanced accuracy score of approximately 61%
- ** A precision score of 1% for the high_risk category and 100% for the low_risk category
- ** A recall score of 58% for the high_risk category and 65% for the low_risk category 
+  ** A balanced accuracy score of approximately 61%
+  ** A precision score of 1% for the high_risk category and 100% for the low_risk category
+  ** A recall score of 58% for the high_risk category and 65% for the low_risk category 
 
 * SMOTE 
  ** A balanced accuracy score of approximately 62%
