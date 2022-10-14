@@ -9,34 +9,34 @@ With a variety of resampling methods available, this credit risk analysis thorou
 The Results of the sampling and modeling are as follows:
 
 * RandomOverSampler
-  ** A balanced accuracy score of approximately 61%
-  ** A precision score of 1% for the high_risk category and 100% for the low_risk category
-  ** A recall score of 58% for the high_risk category and 65% for the low_risk category 
+  * A balanced accuracy score of approximately 61%
+  * A precision score of 1% for the high_risk category and 100% for the low_risk category
+  * A recall score of 58% for the high_risk category and 65% for the low_risk category 
 
 * SMOTE 
- ** A balanced accuracy score of approximately 62%
- ** A precision score of 1% for the high_risk category and 100% for the low_risk category
- ** A recall score of 59% for the high_risk category and 66% for the low_risk category 
+  * A balanced accuracy score of approximately 62%
+  * A precision score of 1% for the high_risk category and 100% for the low_risk category
+  * A recall score of 59% for the high_risk category and 66% for the low_risk category 
 
 * ClusterCentroids
- ** A balanced accuracy score of approximately 51%
- ** A precision score of 1% for the high_risk category and 99% for the low_risk category
- ** A recall score of 59% for the high_risk category and 42% for the low_risk category 
+  * A balanced accuracy score of approximately 51%
+  * A precision score of 1% for the high_risk category and 99% for the low_risk category
+  * A recall score of 59% for the high_risk category and 42% for the low_risk category 
  
 * SMOTEENN
- ** A balanced accuracy score of approximately 64%
- ** A precision score of 1% for the high_risk category and 100% for the low_risk category
- ** A recall score of 70% for the high_risk category and 58% for the low_risk category 
+  * A balanced accuracy score of approximately 64%
+  * A precision score of 1% for the high_risk category and 100% for the low_risk category
+  * A recall score of 70% for the high_risk category and 58% for the low_risk category 
  
 * BalancedRandomForestClassifier
- ** A balanced accuracy score of approximately 78%
- ** A precision score of 3% for the high_risk category and 100% for the low_risk category
- ** A recall score of 65% for the high_risk category and 90% for the low_risk category 
+  * A balanced accuracy score of approximately 78%
+  * A precision score of 3% for the high_risk category and 100% for the low_risk category
+  * A recall score of 65% for the high_risk category and 90% for the low_risk category 
  
 * EasyEnsembleClassifier
- ** A balanced accuracy score of approximately 94%
- ** A precision score of 3% for the high_risk category and 100% for the low_risk category
- ** A recall score of 65% for the high_risk category and 90% for the low_risk category 
+  * A balanced accuracy score of approximately 94%
+  * A precision score of 3% for the high_risk category and 100% for the low_risk category
+  * A recall score of 65% for the high_risk category and 90% for the low_risk category 
  
  
 ## Summary
